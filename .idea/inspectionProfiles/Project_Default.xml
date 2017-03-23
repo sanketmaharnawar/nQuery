@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="33">
+            <item index="0" class="java.lang.String" itemvalue="pbr" />
+            <item index="1" class="java.lang.String" itemvalue="html5lib" />
+            <item index="2" class="java.lang.String" itemvalue="nltk" />
+            <item index="3" class="java.lang.String" itemvalue="virtualenvwrapper-win" />
+            <item index="4" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="5" class="java.lang.String" itemvalue="typecraft-python" />
+            <item index="6" class="java.lang.String" itemvalue="django-common-helpers" />
+            <item index="7" class="java.lang.String" itemvalue="pg8000" />
+            <item index="8" class="java.lang.String" itemvalue="requests" />
+            <item index="9" class="java.lang.String" itemvalue="oxford" />
+            <item index="10" class="java.lang.String" itemvalue="ftfy" />
+            <item index="11" class="java.lang.String" itemvalue="mongoengine" />
+            <item index="12" class="java.lang.String" itemvalue="virtualenv-clone" />
+            <item index="13" class="java.lang.String" itemvalue="virtualenvwrapper" />
+            <item index="14" class="java.lang.String" itemvalue="thrift" />
+            <item index="15" class="java.lang.String" itemvalue="msgpack-python" />
+            <item index="16" class="java.lang.String" itemvalue="xlrd" />
+            <item index="17" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="18" class="java.lang.String" itemvalue="casetagger" />
+            <item index="19" class="java.lang.String" itemvalue="django-cron" />
+            <item index="20" class="java.lang.String" itemvalue="pymongo" />
+            <item index="21" class="java.lang.String" itemvalue="sparkpost" />
+            <item index="22" class="java.lang.String" itemvalue="stevedore" />
+            <item index="23" class="java.lang.String" itemvalue="ordered-set" />
+            <item index="24" class="java.lang.String" itemvalue="wrapt" />
+            <item index="25" class="java.lang.String" itemvalue="langcodes" />
+            <item index="26" class="java.lang.String" itemvalue="regex" />
+            <item index="27" class="java.lang.String" itemvalue="Django" />
+            <item index="28" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="29" class="java.lang.String" itemvalue="snakemake" />
+            <item index="30" class="java.lang.String" itemvalue="pytz" />
+            <item index="31" class="java.lang.String" itemvalue="wordfreq" />
+            <item index="32" class="java.lang.String" itemvalue="webencodings" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
